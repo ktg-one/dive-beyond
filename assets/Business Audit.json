@@ -1,0 +1,186 @@
+{
+  "name": "Beyond Horizon Healing Business Health Audit",
+  "children": [
+    {
+      "name": "Operational Context",
+      "children": [
+        {
+          "name": "Owner: Jo Flynn"
+        },
+        {
+          "name": "Location: Caversham, Western Australia"
+        },
+        {
+          "name": "Industry: Complementary and Alternative Medicine (CAM)"
+        },
+        {
+          "name": "DIVE Score: 56/100"
+        },
+        {
+          "name": "Model: Solo Practitioner"
+        }
+      ]
+    },
+    {
+      "name": "Defence (Regulatory Posture)",
+      "children": [
+        {
+          "name": "Critical Vulnerabilities",
+          "children": [
+            {
+              "name": "Unapproved TGA Therapeutic Claims"
+            },
+            {
+              "name": "Prohibited Outcome-Based Testimonials"
+            },
+            {
+              "name": "HaDSCO Code of Conduct Non-Compliance"
+            }
+          ]
+        },
+        {
+          "name": "Enforcement Risks",
+          "children": [
+            {
+              "name": "TGA Fines"
+            },
+            {
+              "name": "ACCC Misleading Conduct Actions"
+            },
+            {
+              "name": "HaDSCO Prohibition Orders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Identity (Professional Standing)",
+      "children": [
+        {
+          "name": "Strengths",
+          "children": [
+            {
+              "name": "Authentic Founder Narrative"
+            },
+            {
+              "name": "Trauma-Informed Positioning"
+            }
+          ]
+        },
+        {
+          "name": "Weaknesses",
+          "children": [
+            {
+              "name": "Lack of Documented Qualifications"
+            },
+            {
+              "name": "Missing Professional Association Badges"
+            },
+            {
+              "name": "Anti-Western Medicine Sentiment Risk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visibility (Market Presence)",
+      "children": [
+        {
+          "name": "Local Strategy",
+          "children": [
+            {
+              "name": "Effective Fresha Directory Use"
+            },
+            {
+              "name": "Strong Community Networking"
+            },
+            {
+              "name": "Map Pack and Aggregator Focus"
+            }
+          ]
+        },
+        {
+          "name": "Friction Points",
+          "children": [
+            {
+              "name": "Hidden Service Pricing"
+            },
+            {
+              "name": "Punitive Cancellation Fee Messaging"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Experience (Customer Journey)",
+      "children": [
+        {
+          "name": "Technical Failures",
+          "children": [
+            {
+              "name": "Broken Contact Page (404 Error)"
+            }
+          ]
+        },
+        {
+          "name": "Revenue Model",
+          "children": [
+            {
+              "name": "Successful Retail Diversification (zazen)"
+            },
+            {
+              "name": "High-Trust Service Delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Strategic Recommendations",
+      "children": [
+        {
+          "name": "Immediate Defensive Fixes",
+          "children": [
+            {
+              "name": "Purge Illegal Medical Claims"
+            },
+            {
+              "name": "Delete Prohibited Testimonials"
+            },
+            {
+              "name": "Repair Website Contact Form"
+            }
+          ]
+        },
+        {
+          "name": "Compliance & Authority",
+          "children": [
+            {
+              "name": "Display HaDSCO Code of Conduct"
+            },
+            {
+              "name": "Publicise Formal Qualifications"
+            },
+            {
+              "name": "Unify Pricing Transparency"
+            }
+          ]
+        },
+        {
+          "name": "Items to Ignore",
+          "children": [
+            {
+              "name": "Complex Digital Marketing Funnels"
+            },
+            {
+              "name": "Global SEO Campaigns"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
